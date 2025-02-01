@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Playground.Api", "Playground.Api\Playground.Api.csproj", "{2FABF13A-4398-4FC3-9ABD-619C21CBBA5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FABF13A-4398-4FC3-9ABD-619C21CBBA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FABF13A-4398-4FC3-9ABD-619C21CBBA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FABF13A-4398-4FC3-9ABD-619C21CBBA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FABF13A-4398-4FC3-9ABD-619C21CBBA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AC50E7A-4129-4D7C-9F84-A1838EBF67E9}
+	EndGlobalSection
+EndGlobal
